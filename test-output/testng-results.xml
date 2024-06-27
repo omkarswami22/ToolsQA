@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T15:37:48 IST" name="Default suite" finished-at="2024-06-27T15:38:50 IST" duration-ms="61303">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T15:37:48 IST" name="Default test" finished-at="2024-06-27T15:38:50 IST" duration-ms="61303">
+      <class name="DemoToolsQA_TestCases.TestCasesForDemoQA">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:37:48 IST" name="SetUp" finished-at="2024-06-27T15:38:07 IST" duration-ms="18256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TextBox()[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:07 IST" name="TextBox" finished-at="2024-06-27T15:38:09 IST" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextBox -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:09 IST" name="afterEachTest" finished-at="2024-06-27T15:38:10 IST" duration-ms="1188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TextBox status=SUCCESS method=TestCasesForDemoQA.TextBox()[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsCheckBox()[pri:1, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:10 IST" name="ActionsCheckBox" finished-at="2024-06-27T15:38:12 IST" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsCheckBox -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:12 IST" name="afterEachTest" finished-at="2024-06-27T15:38:12 IST" duration-ms="286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsCheckBox status=SUCCESS method=TestCasesForDemoQA.ActionsCheckBox()[pri:1, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsRadioButton()[pri:2, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:12 IST" name="ActionsRadioButton" finished-at="2024-06-27T15:38:13 IST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsRadioButton -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:13 IST" name="afterEachTest" finished-at="2024-06-27T15:38:13 IST" duration-ms="171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsRadioButton status=SUCCESS method=TestCasesForDemoQA.ActionsRadioButton()[pri:2, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsOnWebTables()[pri:3, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:13 IST" name="ActionsOnWebTables" finished-at="2024-06-27T15:38:14 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsOnWebTables -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:14 IST" name="afterEachTest" finished-at="2024-06-27T15:38:14 IST" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsOnWebTables status=SUCCESS method=TestCasesForDemoQA.ActionsOnWebTables()[pri:3, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsOnButton()[pri:4, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:14 IST" name="ActionsOnButton" finished-at="2024-06-27T15:38:15 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsOnButton -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:15 IST" name="afterEachTest" finished-at="2024-06-27T15:38:15 IST" duration-ms="154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsOnButton status=SUCCESS method=TestCasesForDemoQA.ActionsOnButton()[pri:4, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsOnLinks()[pri:5, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:15 IST" name="ActionsOnLinks" finished-at="2024-06-27T15:38:18 IST" duration-ms="2775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsOnLinks -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:18 IST" name="afterEachTest" finished-at="2024-06-27T15:38:18 IST" duration-ms="179" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsOnLinks status=SUCCESS method=TestCasesForDemoQA.ActionsOnLinks()[pri:5, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="ActionsOnBrokenLinks()[pri:6, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:18 IST" name="ActionsOnBrokenLinks" finished-at="2024-06-27T15:38:40 IST" duration-ms="21232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionsOnBrokenLinks -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:40 IST" name="afterEachTest" finished-at="2024-06-27T15:38:40 IST" duration-ms="185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ActionsOnBrokenLinks status=SUCCESS method=TestCasesForDemoQA.ActionsOnBrokenLinks()[pri:6, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="Form()[pri:7, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:40 IST" name="Form" finished-at="2024-06-27T15:38:46 IST" duration-ms="6540" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[Element <label class="custom-control-label"> is not clickable at point (641,668) because another element <div id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0__container__"> obscures it
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e, clickElement {id=07fd756e-e570-495a-a6dc-eaee096de76d}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0.2, moz:accessibilityChecks: false, moz:buildID: 20240624183754, moz:debuggerAddress: 127.0.0.1:46687, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10828, moz:profile: C:\Users\OMKAR~1.SWA\AppDat..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:46687/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e)] -> xpath: //label[text()='Sports']]
+Session ID: cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: Element <label class="custom-control-label"> is not clickable at point (641,668) because another element <div id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0__container__"> obscures it
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e, clickElement {id=07fd756e-e570-495a-a6dc-eaee096de76d}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0.2, moz:accessibilityChecks: false, moz:buildID: 20240624183754, moz:debuggerAddress: 127.0.0.1:46687, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10828, moz:profile: C:\Users\OMKAR~1.SWA\AppDat..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:46687/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e)] -> xpath: //label[text()='Sports']]
+Session ID: cd8b4ddb-1c6f-40e9-aed6-91c7cd2a638e
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy15.click(Unknown Source)
+at utilities.Generics_Methods.clickOnWebElement(Generics_Methods.java:157)
+at DemoToolsQA_TestCases.MethodsForForm.ActionsOnForm(MethodsForForm.java:78)
+at DemoToolsQA_TestCases.TestCasesForDemoQA.Form(TestCasesForDemoQA.java:86)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Form -->
+        <test-method is-config="true" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:46 IST" name="afterEachTest" finished-at="2024-06-27T15:38:47 IST" duration-ms="232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Form status=FAILURE method=TestCasesForDemoQA.Form()[pri:7, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DemoToolsQA_TestCases.TestCasesForDemoQA@17f62e33]" started-at="2024-06-27T15:38:47 IST" name="tearDown" finished-at="2024-06-27T15:38:50 IST" duration-ms="2998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DemoToolsQA_TestCases.TestCasesForDemoQA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
