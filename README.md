@@ -6,7 +6,7 @@ Key Features:
   Generic Methods and Utility Functions
   Configuration File Management
 
-Instructions:
+Instructions: 
   Use the configuration file to modify input settings.
   To run test cases, utilize the TestCasesForDemoQA.java class.
   Screenshots are stored in the screenshot folder.
